@@ -1,5 +1,5 @@
 # iOS-Music-Player
-A simple music player that plays songs from iTunes depending on the selected Genre
+A simple music player that plays random songs from iTunes depending on the selected Genre
 
 # Screenshot
 
